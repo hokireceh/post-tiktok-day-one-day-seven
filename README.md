@@ -16,7 +16,7 @@ mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
 ## The video
 
-The clip is 13 seconds, vertical 1080x1920. Its footage is real gameplay of Vice Bay recorded in this session: day 1 is the first build (commit `16b9c27`), day 7 is the latest build (commit `d41900d`), both staged the same way so the camera never moves. It ends with make.fun's referral end card from the press pack, with the entrant's referral code typed into its field.
+The clip is 14 seconds, vertical 1080x1920. Its footage is real gameplay of Vice Bay recorded in this session: day 1 is the first build (commit `16b9c27`), day 7 is the latest build (commit `d41900d`), both staged the same way so the camera never moves. It ends with make.fun's referral end card from the press pack, with the entrant's referral code typed into its field.
 
 ---
 
